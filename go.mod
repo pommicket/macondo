@@ -84,4 +84,4 @@ require (
 	gorgonia.org/vecf64 v0.9.0 // indirect
 )
 
-replace github.com/chzyer/readline => github.com/pommicket/readline
+replace github.com/chzyer/readline => github.com/pommicket/readline v1.5.2
